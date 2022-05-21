@@ -1,5 +1,5 @@
 def count(array,num):
-    #returns how many times sequence is in array
+    #returns how many times is the element in the array
     count=0
     for element in array:
         if element== num:

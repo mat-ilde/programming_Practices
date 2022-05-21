@@ -1,3 +1,7 @@
+"""
+    function with list as input and return the ocurrences of the positive, negative, and zeros values
+"""
+
 def plusMinus(arr):
     positive_number = 0
     negative_number = 0

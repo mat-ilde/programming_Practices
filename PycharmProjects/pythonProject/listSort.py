@@ -1,3 +1,7 @@
+"""
+    function with a list as input returning a sorted list
+"""
+
 def listSort(arr):
     for i, element_position in enumerate(arr):
         for j, element in enumerate(arr):
