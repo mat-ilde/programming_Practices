@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6bc11b0f-f334-4264-935c-7c8ab21cb9b4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/PycharmProjects.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/interviewProblems.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/interviewProblems.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TotalUsingTwoNumbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/TotalUsingTwoNumbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deltaCompression.py" beforeDir="false" afterPath="$PROJECT_DIR$/deltaCompression.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flippingBits.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/joinTwolistOneSorted.py" beforeDir="false" afterPath="$PROJECT_DIR$/joinTwolistOneSorted.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/listSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/listSort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lonelyinteger.py" beforeDir="false" afterPath="$PROJECT_DIR$/lonelyinteger.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/militaryFormat.py" beforeDir="false" afterPath="$PROJECT_DIR$/militaryFormat.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/miniMaxSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/miniMaxSum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plusMinus.py" beforeDir="false" afterPath="$PROJECT_DIR$/plusMinus.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reverseList.py" beforeDir="false" afterPath="$PROJECT_DIR$/reverseList.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/showSequences.py" beforeDir="false" afterPath="$PROJECT_DIR$/showSequences.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchingTargetDifferentsWays.py" beforeDir="false" afterPath="$PROJECT_DIR$/searchingTargetDifferentsWays.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

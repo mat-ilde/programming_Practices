@@ -34,10 +34,10 @@ def find(target, arr):
         #si el número en esa posición es igual al target
         if arr[mid]==target:
             return mid
-        # si el número es menor que el target el inicio del array será el medio del array, muevo i
+        # si el número es menor que el target el inicio del array será el medio del array, cambio de posición i
         if arr[mid]<target:
             i = mid
-        #si el número es mayor que el target el final del array será el medio del array, muevo j
+        #si el número es mayor que el target el final del array será el medio del array, cambio de possición j
         if arr[mid]>target:
             j = mid
     return mid
